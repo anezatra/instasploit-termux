@@ -1,1 +1,1 @@
-apt upgrade && pkg install ffmpeg ffplay play
+apt upgrade && pkg install ffmpeg ffplay sox
