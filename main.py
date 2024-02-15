@@ -1096,7 +1096,7 @@ def main():
   print("    _/ // /|  /___/ // / / ___ |___/ / ____/ /___/ /_/ // /  / /     ")
   print("   /___/_/ |_//____//_/ /_/  |_/____/_/   /_____/\____/___/ /_/      ")    
   print()
-  print("                   --= Termux Vision =--")                                                           
+  print("                    --= Termux Vision =--")                                                           
   print("\n\n")
   print("                    * coded by Anezatra *                ")
   print("                  ===========================            ")
