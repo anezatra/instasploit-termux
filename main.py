@@ -2,10 +2,10 @@
 # Instasploit v1.0
 # Title: instasploit instagram deep exploration tool
 # Author: Anezatra Katedram
-# System request: Linux Version(Debian/Ubuntu) and Win64/32
+# System request: Termux App
 # Terminal: Linux
 # Description: Instagram deep knowledge gathering
-# Last update: 9/01/2024 Bugs fixed
+# Last update: 15/02/2024 Builded
 # Generated: -
 #############################################################
 
@@ -30,17 +30,17 @@ current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def play_alert_sound():
     
-    sound = "sounds/alert.mp3 > /dev/null"
+    sound = "play sounds/alert.mp3 > /dev/null 2>&1"
     os.system(sound)
 
 def play_start_sound():
     
-    sound = "sounds/start.mp3 > /dev/null"
+    sound = "play sounds/start.mp3 > /dev/null 2>&1"
     os.system(sound)
 
 def play_command():
     
-    sound = "sounds/command.mp3 > /dev/null"
+    sound = "play sounds/command.mp3 > /dev/null 2>&1"
     os.system(sound)
       
 def shell():
