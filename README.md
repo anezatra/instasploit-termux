@@ -47,9 +47,9 @@
 ```
 ## How to download 💡
 **You can download instasploiit directly by saying** <br/><br/>
-` pip install -r requirements.txt `
-## or <br/>
-` python -m pip install -r requirements.txt ` <br/>
+` bash install.sh `
+## and <br/>
+` pip install -r requirements.txt ` <br/>
 ## Required python version 📌
 ` python 3.x `
 ## Required instagram API module 🛠️
