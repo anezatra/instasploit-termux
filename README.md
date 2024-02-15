@@ -48,7 +48,7 @@
 ## How to download 💡
 **You can download instasploiit directly by saying** <br/><br/>
 ` bash install.sh `
-## and <br/>
+## And <br/>
 ` pip install -r requirements.txt ` <br/>
 ## Required python version 📌
 ` python 3.x `
